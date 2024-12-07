@@ -1,0 +1,7 @@
+# requirements.txt
+
+# Required libraries for the Q-learning and Dyna-Q notebook
+gym==0.21.0          # OpenAI Gym for reinforcement learning environments
+numpy==1.21.0        # NumPy for numerical operations
+matplotlib==3.4.3    # Matplotlib for visualizations
+scipy==1.7.1         # SciPy for statistical functions
